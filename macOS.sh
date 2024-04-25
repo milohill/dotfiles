@@ -1,5 +1,6 @@
 #!/usr/bin/env zsh
 
+## xcode CLI installation
 xcode-select --install
 
 echo "Complete the installation of Xcode Command Line Tools before proceeding."
